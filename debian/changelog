@@ -1,0 +1,60 @@
+zerogw (0.6.1-1) precise; urgency=low
+
+  * New upstream version
+  * New Ubuntu release
+
+ -- Paul Colomiets (tailhook) <paul@colomiets.name>  Sat, 04 Aug 2012 23:11:08 +0300
+
+zerogw (0.5.21-1) oneiric; urgency=low
+
+  * Various bugfixes in websockets
+
+ -- Paul Colomiets <paul@colomiets.name>  Mon, 21 Nov 2011 01:48:59 +0300
+
+zerogw (0.5.20.24-1) oneiric; urgency=low
+
+  * Upstream update with bugfixes and few websocket features
+
+ -- Paul Colomiets <paul@colomiets.name>  Sat, 19 Nov 2011 13:24:50 +0300
+
+zerogw (0.5.20.2-7) oneiric; urgency=low
+
+  * Fixed strange ubuntu dependencies
+
+ -- Paul Colomiets <paul@colomiets.name>  Sat, 29 Oct 2011 12:23:15 +0300
+
+zerogw (0.5.20.2-6) oneiric; urgency=low
+
+  * python3-yaml added as dependency
+
+ -- Paul Colomiets <paul@colomiets.name>  Sat, 29 Oct 2011 00:41:15 +0300
+
+zerogw (0.5.20.2-5) oneiric; urgency=low
+
+  * CDBS added as dependency
+
+ -- Paul Colomiets <paul@colomiets.name>  Fri, 28 Oct 2011 23:25:07 +0300
+
+zerogw (0.5.20.2-4) oneiric; urgency=low
+
+  * Nothing changed, just forcing recompilation
+
+ -- Paul <paul@colomiets.name>  Thu, 27 Oct 2011 23:26:12 +0300
+
+zerogw (0.5.20.2-3) oneiric; urgency=low
+
+  * Temporarily added git as dependency
+
+ -- Paul <paul@colomiets.name>  Thu, 27 Oct 2011 23:26:12 +0300
+
+zerogw (0.5.20.2-2) oneiric; urgency=low
+
+  * Removed git directory from distribution
+
+ -- Paul <paul@colomiets.name>  Thu, 27 Oct 2011 23:26:12 +0300
+
+zerogw (0.5.20.2-1) oneiric; urgency=low
+
+  * Initial release
+
+ -- Paul <paul@colomiets.name>  Thu, 27 Oct 2011 23:26:12 +0300

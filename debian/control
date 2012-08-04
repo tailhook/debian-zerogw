@@ -1,0 +1,14 @@
+Source: zerogw
+Section: devel
+Priority: extra
+Maintainer: Paul Colomiets <paul@colomiets.name>
+Build-Depends: debhelper (>= 8.0.0), cdbs, libzmq-dev, libssl-dev, coyaml-dev, python3, libyaml-dev, libwebsite-dev, python3-yaml, git
+Standards-Version: 3.9.2
+Homepage: http://github.com/tailhook/zerogw
+Vcs-Git: git://github.com/tailhook/zerogw.git
+Vcs-Browser: http://github.com/tailhook/zerogw
+
+Package: zerogw
+Architecture: any
+Depends: libzmq1, libssl1.0.0, libyaml-0-2
+Description: A HTTP/WebSocket to zeromq gateway
